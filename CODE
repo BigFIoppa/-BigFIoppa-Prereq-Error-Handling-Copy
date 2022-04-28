@@ -1,0 +1,4 @@
+print ("Hello")
+run
+print ("Goodbye")
+run
