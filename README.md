@@ -1,1 +1,1 @@
-# -BigFIoppa-Prereq-Error-Handling-Copy
+These commands must be run in seriel to work as the assignment intends.
